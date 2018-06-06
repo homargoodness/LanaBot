@@ -1,0 +1,22 @@
+{
+  "name": "lana_bot",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homargoodness/LanaBot.git"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "author": "Omar Manir",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/homargoodness/LanaBot/issues"
+  },
+  "homepage": "https://github.com/homargoodness/LanaBot#readme"
+}
