@@ -15,4 +15,3 @@ Would like to have:
   - implement a vote from a short list.
   - allow users to create a short list from which a random game will be chosen.
 
-Test
