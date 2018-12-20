@@ -7,7 +7,9 @@ client.on('ready', () => {
 });
 
 client.on("message", msg => {
-  if(msg.content === "!whatGame") {
+  if (!msg.content.startsWith('!')) return;
+
+  if(msg.content === "!randomGame") {
     msg.reply(config.games[Math.floor(Math.random() * Math.floor(config.games.length))]);
   }
 });
