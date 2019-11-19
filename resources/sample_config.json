@@ -1,3 +1,7 @@
 {
-  "games":  []
+  "games":  [
+    {"name": "game1", "category": "game1", "tags": ["tag1", "tag2", "tag3"]},
+    {"name": "game2", "category": "game2", "tags": ["tag4", "tag5", "tag6"]},
+    {"name": "game3", "category": "game3", "tags": ["tag1", "tag7", "tag6"]}
+  ]
 }
